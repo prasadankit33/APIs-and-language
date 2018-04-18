@@ -1,0 +1,3 @@
+It is a website with GIFs
+#Getting API key
+Gives public production keys so not required

@@ -1,0 +1,2 @@
+RiTa is a language processing library which helps to sort out various 
+features of English language .

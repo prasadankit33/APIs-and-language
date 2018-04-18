@@ -1,0 +1,6 @@
+It is a website with news and information.
+#Getting API key
+go to https://developer.nytimes.com
+Then click 'Request an API key'
+then go to this url to view data
+https://api.nytimes.com/svc/search/v2/articlesearch.json?q=(Your_query)&api-key=(API_key)
